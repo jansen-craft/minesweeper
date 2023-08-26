@@ -1,2 +1,3 @@
 # minesweeper
-JS minesweeper on a webpage for fun
+minesweeper on a webpage
+
